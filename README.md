@@ -118,6 +118,15 @@
         <li>Cloud deployment</li>
     </ul>
 </section>
+<section>
+    <h2> Output</h2>
+    <ul>
+        <li><img width="1910" height="971" alt="Screenshot 2026-02-13 191110" src="https://github.com/user-attachments/assets/1b191274-340b-4315-be15-7b533f494c20" />
+</li>
+        <li><img width="1903" height="959" alt="Screenshot 2026-02-13 191548" src="https://github.com/user-attachments/assets/9714cca5-ac7e-4abd-b3d8-aaf935c768aa" />
+</li>
+    </ul>
+</section>
 
 <footer>
     <p>👩‍💻 Developed by Areeza Usmani | Insurance Claims Chatbot Project</p>
